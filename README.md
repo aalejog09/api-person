@@ -1,2 +1,9 @@
 # api-person
-test repository for .Net Core API 
+Basic API with .Net Core API workflow. 
+
+## Database
+SQL Server DB. 
+
+
+
+
